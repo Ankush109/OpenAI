@@ -7,5 +7,7 @@ Open-AI Image Generator<br/>
 </div>
 
 <br/>
- <h1> I have build a image generator like you see in Dalle it uses Open AI api to build a image a render it in html</h1>
+ <h3> I have build a image generator like you see in Dalle it uses Open AI api to build a image a render it in html
+ Whatever you type it will build the image from scratch with the help of AI and give an image
+ </h3>
 <center>
